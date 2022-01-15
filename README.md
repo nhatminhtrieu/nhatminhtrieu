@@ -9,7 +9,7 @@
  **I would very happy if you contact me via:<br />**
 
 **|** [LinkedIn](https://www.linkedin.com/in/nhatminhtrieu)
- **|** [Email](email:21127112@student.hcmus.edu.vn) **|** [Hackerank](https://www.hackerrank.com/NhatMinhCL9) **|**
+ **|** [Email](mailto:21127112@student.hcmus.edu.vn) **|** [Hackerank](https://www.hackerrank.com/NhatMinhCL9) **|**
 
 
 

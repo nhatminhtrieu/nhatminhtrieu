@@ -1,6 +1,15 @@
+# INTRODUCE
 - 👋 Hi, I’m @nhatminhtrieu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ✅ Roles: **Student**
+- 👀 I’m interested in **Computer Hardware**
+- 🌱 I’m currently learning: `C++`, `git`
+
+![Rainbow](https://c.tenor.com/mc9-3cypZEYAAAAC/rainbow-line.gif)
+# CONTACTS
+ **I would very happy if you contact me via:<br />**
+
+**|** [LinkedIn](https://www.linkedin.com/in/nhatminhtrieu)
+ **|** [Email](21127112@student.hcmus.edu.vn) **|** [Hackerank](https://www.hackerrank.com/NhatMinhCL9) **|**
+
+
 

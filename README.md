@@ -1,6 +1,5 @@
 # INTRODUCE
 - 👋 Hi, I’m @nhatminhtrieu
-- ✅ Roles: **Student**
 - 📌 HQ Program, FIT, ***VNU-HCMUS***
 - 👀 I’m interested in **Computer Hardware**
 - 🌱 I’m currently learning: `C++`, `git`

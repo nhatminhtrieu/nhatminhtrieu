@@ -1,6 +1,6 @@
 # INTRODUCE
 - 👋 Hi, I’m @nhatminhtrieu
-- 📌 HQ Program, FIT, ***VNU-HCMUS***
+- 📌 Excellent Program, FIT, ***VNU-HCMUS***
 - 👀 I’m interested in **Computer Hardware**
 - 🌱 I’m currently learning: `C++`, `git`
 

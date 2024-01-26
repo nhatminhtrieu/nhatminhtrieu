@@ -1,8 +1,8 @@
 # INTRODUCE
 - 👋 Hi, I’m @nhatminhtrieu
-- 📌 Excellent Program, FIT, ***VNU-HCMUS***
-- 👀 I’m interested in **Computer Hardware**
-- 🌱 I’m currently learning: `C++`, `git`
+- 📌 High Quality Program, FIT, ***VNU-HCMUS***
+- 👀 I’m interested in **Data, Data and Data**
+- 🌱 I’m currently learning: `NextJS`, `Kotlin`
 
 # GITHUB STATS
 [![](https://github-readme-stats.vercel.app/api?username=nhatminhtrieu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

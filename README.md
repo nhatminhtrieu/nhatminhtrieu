@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning: `C++`, `git`
 
 # GITHUB STATS
-[![](https://github-readme-stats.vercel.app/api?username=nhatminhtrieu)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=nhatminhtrieu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatminhtrieu&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # CONTACTS
  **I would very happy if you contact me via:<br />**

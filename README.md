@@ -7,7 +7,7 @@
 # GITHUB STATS
 [![](https://github-readme-stats.vercel.app/api?username=nhatminhtrieu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatminhtrieu&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatminhtrieu&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # CONTACTS
